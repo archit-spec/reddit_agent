@@ -1,0 +1,81 @@
+{
+  "subreddit": "DebateVaccines",
+  "title": "Debate Vaccines",
+  "description": "Post news stories, facts, questions and/or arguments for or against vaccinations. Prepare to have your post and comments challenged, as that is what this subreddit is for.\n\nThe one rule is **be respectful** to others. Ad hominems, doxing, and/or other forms of personal attacks can get you banned. Try to use facts and logic as much as possible, however personal beliefs are permitted as argument for or against vaccinations. Just don't expect anyone with a different belief set to be swayed by your arguments.",
+  "subscribers": 22643,
+  "needs_found": [
+    {
+      "url": "https://reddit.com/r/DebateVaccines/comments/1h1mo8t/big_pharma_still_wont_come_clean_about_the_covid/",
+      "title": "Big Pharma Still Won\u2019t Come Clean About The Covid Shot\u2019s Deadly Side Effects",
+      "score": 30,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "individuals who received Pfizer Covid vaccine",
+      "problem": "Lack of transparency and informed consent regarding the status of the Pfizer Covid vaccine as a 'military prototype'",
+      "current_solutions": "Informed consent from medical professionals, FDA approval, and public disclosure of vaccine status",
+      "opportunity": "Improved transparency and informed consent processes for medical products, particularly those with military connections"
+    },
+    {
+      "url": "https://reddit.com/r/DebateVaccines/comments/1h1smrn/would_you_get_your_child_the_hpv_vaccine_have_any/",
+      "title": "Would you get your child the hpv vaccine? Have any of you personally or known someone personally that has had an adverse reaction?",
+      "score": 4,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "parents of 11-year-old girls",
+      "problem": "parents' concerns about potential adverse reactions to the HPV vaccine",
+      "current_solutions": "some parents may choose not to get the vaccine or may seek alternative solutions",
+      "opportunity": "a service that provides accurate information and reassurance about the safety of the HPV vaccine could help alleviate parents' concerns and increase vaccination rates"
+    },
+    {
+      "url": "https://reddit.com/r/DebateVaccines/comments/1h1nslu/dojs_vaccineautism_coverup_as_described_by_the/",
+      "title": "DOJ's Vaccine-Autism Coverup ...as described by the agency's own medical expert witness",
+      "score": 8,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "parents, caregivers, and policymakers concerned about vaccine safety and autism",
+      "problem": "lack of transparency and honest communication about vaccine safety and potential links to autism",
+      "current_solutions": "some members of Congress and staff have spoken out about their experiences, but there is a need for more widespread awareness and support",
+      "opportunity": "to create a platform for open discussion and education about vaccine safety, and to provide resources and support for those affected by autism"
+    },
+    {
+      "url": "https://reddit.com/r/DebateVaccines/comments/1h1mo8t/big_pharma_still_wont_come_clean_about_the_covid/",
+      "title": "Big Pharma Still Won\u2019t Come Clean About The Covid Shot\u2019s Deadly Side Effects",
+      "score": 29,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "individuals who received Pfizer vaccine",
+      "problem": "lack of transparency and informed consent regarding the vaccine's status as a military prototype",
+      "current_solutions": "none mentioned",
+      "opportunity": "improved transparency and informed consent processes for medical products, particularly those with military connections"
+    },
+    {
+      "url": "https://reddit.com/r/DebateVaccines/comments/qtzfiz/professional_mountain_biker_kyle_warner_took/",
+      "title": "Professional mountain biker Kyle Warner took Pfizer and developed Pericarditis, Postural tachycardia syndrome, and reactive arthritis, ending his career.",
+      "score": 864,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "people who have experienced vaccine injuries and are seeking support and understanding",
+      "problem": "lack of empathy and understanding from medical professionals and society towards people who have experienced vaccine injuries",
+      "current_solutions": "claiming a vaccine injury to a MD before getting vaccinated to gauge treatment",
+      "opportunity": "developing services and resources to support people who have experienced vaccine injuries, such as therapy and advocacy"
+    },
+    {
+      "url": "https://reddit.com/r/DebateVaccines/comments/su4kni/my_doctor_told_me_not_to_get_the_covid_vax/",
+      "title": "My doctor told me not to get the covid vax",
+      "score": 635,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "individuals seeking medical advice and vaccination guidance",
+      "problem": "individuals seeking medical advice and vaccination guidance may be unsure about the COVID vaccine and its benefits",
+      "current_solutions": "existing medical professionals may be pushing the vaccine on patients without considering individual health status",
+      "opportunity": "providing personalized vaccination guidance and recommendations based on individual health status and risk categories"
+    }
+  ],
+  "opportunities": []
+}

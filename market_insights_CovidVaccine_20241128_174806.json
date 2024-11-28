@@ -1,0 +1,117 @@
+{
+  "subreddit": "CovidVaccine",
+  "title": "CovidVaccine",
+  "description": "",
+  "subscribers": 5780,
+  "needs_found": [
+    {
+      "url": "https://reddit.com/r/CovidVaccine/comments/rxxstf/extreme_health_anxiety_cannot_take_this_anymore/",
+      "title": "EXTREME health anxiety, cannot take this anymore",
+      "score": 37,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "individuals with extreme health anxiety, particularly those who are hesitant to get vaccinated",
+      "problem": "extreme fear and anxiety related to COVID-19 and vaccination, feeling isolated and shunned by society",
+      "current_solutions": "therapy, self-care, and avoidance of social media",
+      "opportunity": "a service that provides emotional support, guidance, and reassurance to individuals with extreme health anxiety, helping them make informed decisions about vaccination and COVID-19"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccine/comments/rxu4zr/ive_been_told_not_to_get_vaccinated_for_many/",
+      "title": "I\u2019ve been told not to get vaccinated for many years but cannot get exempted from covid vaccine.",
+      "score": 49,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "individuals with a history of GBS (Guillain-Barre Syndrome) or similar conditions",
+      "problem": "individuals with a history of GBS or similar conditions are unable to get vaccinated due to concerns about adverse reactions, leading to restrictions on their daily lives",
+      "current_solutions": "medical exemptions, but these are not always available or easily obtained",
+      "opportunity": "developing a more personalized and risk-assessed approach to vaccination for individuals with a history of GBS or similar conditions, potentially using alternative vaccines or vaccination schedules"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccine/comments/rw3sqf/ive_delayed_getting_my_2nd_shot_for_months/",
+      "title": "I\u2019ve delayed getting my 2nd shot for months",
+      "score": 14,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "individuals with severe health anxiety",
+      "problem": "fear of getting the second COVID-19 shot due to severe health anxiety",
+      "current_solutions": "therapeutics like Ivermectin, hypnosis",
+      "opportunity": "access to personalized healthcare resources and anxiety management techniques to alleviate concerns about getting the second COVID-19 shot"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccine/comments/rxxstf/extreme_health_anxiety_cannot_take_this_anymore/",
+      "title": "EXTREME health anxiety, cannot take this anymore",
+      "score": 38,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "Individuals with extreme health anxiety, particularly those who are hesitant to get vaccinated",
+      "problem": "Extreme health anxiety and fear of COVID-19 and vaccines, leading to feelings of isolation and loss of social connections",
+      "current_solutions": "Therapy, self-care, and avoidance of social media",
+      "opportunity": "A service that provides personalized support and guidance for individuals with extreme health anxiety, helping them navigate the decision to get vaccinated and manage their mental health"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccine/comments/rxu4zr/ive_been_told_not_to_get_vaccinated_for_many/",
+      "title": "I\u2019ve been told not to get vaccinated for many years but cannot get exempted from covid vaccine.",
+      "score": 48,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "individuals with a history of GBS or similar conditions",
+      "problem": "individuals with a history of GBS or similar conditions may be hesitant to get vaccinated due to concerns about severe reactions",
+      "current_solutions": "doctor's opinions and guidelines advising against vaccination",
+      "opportunity": "a service that provides personalized risk assessments and medical exemptions for individuals with a history of GBS or similar conditions"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccine/comments/rw3sqf/ive_delayed_getting_my_2nd_shot_for_months/",
+      "title": "I\u2019ve delayed getting my 2nd shot for months",
+      "score": 14,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "individuals with health anxiety or concerns about COVID-19 vaccines",
+      "problem": "severe health anxiety and fear of COVID-19 vaccines",
+      "current_solutions": "therapeutics like Ivermectin, hypnosis, and seeking a primary care physician (PCP) for guidance",
+      "opportunity": "providing accessible and anxiety-reducing services or resources for individuals hesitant to get vaccinated"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccine/comments/lhcboj/why_the_hell_are_there_so_many_antivaxxers_in/",
+      "title": "Why the hell are there so many anti-vaxxers in this thread?!",
+      "score": 69,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "people seeking accurate information about Covid-19 and vaccines",
+      "problem": "misinformation and fearmongering about vaccines",
+      "current_solutions": "posting statistics and linking to studies, reporting anti-vaxxers",
+      "opportunity": "providing reliable and accessible information about Covid-19 and vaccines to counter misinformation"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccine/comments/o4u13v/government_gaslighting_at_its_finest/",
+      "title": "Government =gaslighting at its finest \ud83d\udc4c",
+      "score": 55,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "general public, particularly those who have not been vaccinated",
+      "problem": "lack of compliance with COVID-19 mitigation measures, such as wearing masks and maintaining social distancing, and the resulting spread of the virus",
+      "current_solutions": "14-day lockdown and full mask usage, social distancing for those who still had to work",
+      "opportunity": "providing support to make compliance easier, such as vaccinations and protection from those who still carry the virus"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccine/comments/rxu4zr/ive_been_told_not_to_get_vaccinated_for_many/",
+      "title": "I\u2019ve been told not to get vaccinated for many years but cannot get exempted from covid vaccine.",
+      "score": 52,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "individuals with a history of GBS (Guillain-Barre Syndrome) or similar conditions",
+      "problem": "individuals with a history of GBS or similar conditions are hesitant to get vaccinated due to concerns about severe reactions",
+      "current_solutions": "individuals are advised by doctors not to get vaccinated, but there is no clear process for obtaining a medical exemption",
+      "opportunity": "a service that provides medical exemptions or alternative vaccination options for individuals with a history of GBS or similar conditions"
+    }
+  ],
+  "opportunities": []
+}

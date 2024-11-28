@@ -1,0 +1,105 @@
+{
+  "subreddit": "CovidVaccineEffects",
+  "title": "CovidVaccineEffects",
+  "description": "This is a place to share how well or poorly you feel after your covid vax. Help others through your experience and nobody will be banned for any experience they\u2019ve had, negative or positive. This sub is not here to hide things.",
+  "subscribers": 346,
+  "needs_found": [
+    {
+      "url": "https://reddit.com/r/CovidVaccineEffects/comments/1h0tgpg/periodic_swollen_collarbone_node_years_after/",
+      "title": "Periodic Swollen Collarbone Node, years after COVID vaccine. ",
+      "score": 1,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "people who have received the COVID vaccine and are experiencing swollen lymph nodes",
+      "problem": "recurring swelling and pain in a lymph node caused by the COVID vaccine",
+      "current_solutions": "waiting for the swelling to resolve on its own, or seeking medical attention when it becomes severe",
+      "opportunity": "development of a service or treatment to alleviate the pain and swelling associated with reactive lymph nodes in people who have received the COVID vaccine"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccineEffects/comments/1gxc99i/vaccines_and_political_beliefs_research/",
+      "title": "Vaccines and Political Beliefs research",
+      "score": 1,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "research",
+      "target_market": "people with opinions on vaccines and politics",
+      "problem": "The need for diverse viewpoints on vaccines and politics",
+      "current_solutions": "Anonymous online chat",
+      "opportunity": "To make a contribution to important research and shape public opinion"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccineEffects/comments/1h0tgpg/periodic_swollen_collarbone_node_years_after/",
+      "title": "Periodic Swollen Collarbone Node, years after COVID vaccine. ",
+      "score": 1,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "individuals who have received COVID vaccine and are experiencing swollen lymph nodes",
+      "problem": "recurring and painful swelling of lymph nodes, potentially related to COVID vaccine",
+      "current_solutions": "visiting a doctor, waiting for swelling to resolve on its own",
+      "opportunity": "development of a service or treatment option to alleviate pain and discomfort associated with swollen lymph nodes, potentially tailored to pregnant individuals"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccineEffects/comments/1gxc99i/vaccines_and_political_beliefs_research/",
+      "title": "Vaccines and Political Beliefs research",
+      "score": 1,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "research",
+      "target_market": "people with opinions on vaccines and politics",
+      "problem": "The need for diverse viewpoints on vaccines and politics",
+      "current_solutions": "Anonymous online chat",
+      "opportunity": "To shape important research and reflect on one's own beliefs"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccineEffects/comments/1gq7nz8/covid_19_vaccine_side_effects/",
+      "title": "Covid 19 vaccine side effects ",
+      "score": 5,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "people who have received the Covid 19 vaccine",
+      "problem": "people experiencing side effects from the Covid 19 vaccine",
+      "current_solutions": "existing medical services and healthcare providers",
+      "opportunity": "developing services to address and manage vaccine side effects"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccineEffects/comments/o4uwnn/share_this_subreddit_so_the_people_who_are_all/",
+      "title": "Share this subreddit so the people who are all banned from /r/covidvaccinated can share their stories without fear of being removed",
+      "score": 19,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "Reddit users who feel censored",
+      "problem": "Reddit censorship and fear of being banned",
+      "current_solutions": "None mentioned",
+      "opportunity": "Allowing users to share their stories and opinions without fear of being removed"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccineEffects/comments/wbe8qs/diagnosed_with_leukemia_after_covid_vaccine/",
+      "title": "Diagnosed with Leukemia after Covid vaccine.",
+      "score": 18,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "individuals who have received the Covid vaccine and are concerned about potential health risks",
+      "problem": "uncertainty and lack of information about potential health risks associated with the Covid vaccine",
+      "current_solutions": "some individuals have done their own research and are sharing their experiences and findings with others",
+      "opportunity": "there is a potential opportunity for a service that provides accurate and reliable information about the Covid vaccine and its potential health risks, as well as support and resources for individuals who are concerned about their health"
+    },
+    {
+      "url": "https://reddit.com/r/CovidVaccineEffects/comments/scjbrr/covid_vaccine_infertility/",
+      "title": "Covid vaccine infertility",
+      "score": 15,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "people of childbearing ages",
+      "problem": "perceived temporary infertility caused by Covid vaccine, uncertainty about long-term effects, and potential impact on reproductive choices",
+      "current_solutions": "getting vaccinated, seeking medical advice",
+      "opportunity": "providing accurate and reliable information about vaccine side effects, particularly regarding fertility and reproductive health, and offering support for individuals affected by these concerns"
+    }
+  ],
+  "opportunities": []
+}

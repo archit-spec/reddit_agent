@@ -1,0 +1,81 @@
+{
+  "subreddit": "Coronavirus",
+  "title": "Novel Coronavirus (COVID-19)",
+  "description": "**Please [view our rules](https://www.reddit.com/r/Coronavirus/wiki/rules) before posting or commenting**\n\n**For scientific discussion of COVID see /r/COVID19**\n\n\n \nShould you wish to be given a verified flair as a doctor, science PhD or MSc, please send a modmail with the title \"FOR VERIFICATION\" to learn more.\n\nAMA Highlights\n\n- [Dr. Wim van der Poel: Mink mutation]\n(https://www.reddit.com/r/Coronavirus/comments/jsv6iv/hi_i_am_wim_van_der_poel_prof_of_zoonotic_viruses/)\n\n- [Bill Gates]\n(https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/)\n\n- [Dr. Linsey Marr: Airborne transmission]\n(https://www.reddit.com/r/Coronavirus/comments/i4u2e2/i_am_linsey_marr_professor_of_engineering_here_to/)\n\n- [Dr. Michael Osterholm]\n(https://www.reddit.com/r/Coronavirus/comments/fshgv8/im_dr_michael_osterholm_an_expert_in_infectious/)\n\n- [Robert Jenkins, UNICEF: Child Education]\n(https://www.reddit.com/r/Coronavirus/comments/g6qfvw/hello_i_am_robert_jenkins_unicefs_global_chief_of/)\n\n- [Dr. Vincent Racaniello, Prof. of Virology and Host of TWiV](https://www.reddit.com/r/Coronavirus/comments/mmve3y/im_dr_vincent_racaniello_a_virology_professor_at/)\n\nOther Links\n\n- [Donate PPE](https://www.c19coalition.org/)\n\n- [Case Trackers](https://www.reddit.com/r/Coronavirus/wiki/faq#wiki_where_can_i_find_up-to-date_information_on_covid-19_cases_and_deaths.3F)\n\n- [Vaccine Trackers](https://www.reddit.com/r/Coronavirus/wiki/faq#wiki_where_can_i_find_information_on_the_status_of_vaccinations_administered.3F)\n\n- [Regional Subreddits] \n(https://www.reddit.com/r/Coronavirus/wiki/faq/regional-subs) \n\n- [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)\n\n- [U.S. Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html)\n\n- [Join our user-moderated Discord server](https://discordapp.com/invite/HvuGnD9)\n\n&nbsp;\n\n**Related Communities**\n\n- /r/COVID19\n\n- /r/COVID19_support\n\n- /r/COVIDProjects\n\n- /r/epidemic\n\n- /r/virology\n\n- /r/science\n\n- /r/ID_News\n\n- /r/medical\n\n- /r/worldnews\n\n&nbsp;\n\n**Resources**\n\n[](#button)[FAQ](https://www.reddit.com/r/Coronavirus/wiki/faq/)\n\n[](#button)[Vaccine Finder](https://www.reddit.com/r/Coronavirus/comments/m4ir9q/resources_for_finding_a_covid19_vaccine/)\n\n[](#button)[Study Recruitment](https://www.reddit.com/r/Coronavirus/comments/j4i1l6/scientific_studies_looking_for_participants/)\n\n[](#button)[Regional Subreddits](https://www.reddit.com/r/Coronavirus/wiki/faq/regional-subs)\n\n[](#button)[Support](https://www.reddit.com/r/Coronavirus/wiki/support)",
+  "subscribers": 2633883,
+  "needs_found": [
+    {
+      "url": "https://reddit.com/r/Coronavirus/comments/1h0ea22/covid_usually_flourishes_around_thanksgiving_but/",
+      "title": "COVID usually flourishes around Thanksgiving. But the Boston region is seeing surprisingly low levels.",
+      "score": 206,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "improvement",
+      "target_market": "public, healthcare professionals, government agencies",
+      "problem": "COVID-19 spread and its impact on public health",
+      "current_solutions": "vaccinations, public health measures, wastewater testing",
+      "opportunity": "potential for a less severe winter season, reduced hospital admissions and deaths"
+    },
+    {
+      "url": "https://reddit.com/r/Coronavirus/comments/1gwhp0s/what_you_should_know_about_covid19_for_this/",
+      "title": "What you should know about COVID-19 for this holiday season",
+      "score": 403,
+      "confidence": 0.7,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "people gathering together during the holiday season",
+      "problem": "the risk of someone getting sick when gathering a group of people together",
+      "current_solutions": "accepting the risk or not",
+      "opportunity": "providing accurate and accessible COVID-19 testing and education to reduce the spread of the virus"
+    },
+    {
+      "url": "https://reddit.com/r/Coronavirus/comments/1h0ea22/covid_usually_flourishes_around_thanksgiving_but/",
+      "title": "COVID usually flourishes around Thanksgiving. But the Boston region is seeing surprisingly low levels.",
+      "score": 210,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "improvement",
+      "target_market": "general public, healthcare professionals",
+      "problem": "COVID-19 spread and its impact on public health",
+      "current_solutions": "vaccinations, public health measures, wastewater testing",
+      "opportunity": "potential for a less severe winter season, reduced hospitalizations and deaths"
+    },
+    {
+      "url": "https://reddit.com/r/Coronavirus/comments/1gwhp0s/what_you_should_know_about_covid19_for_this/",
+      "title": "What you should know about COVID-19 for this holiday season",
+      "score": 408,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "people gathering in groups during the holiday season",
+      "problem": "the risk of someone getting sick when gathering a group of people together",
+      "current_solutions": "accepting the risk or not",
+      "opportunity": "providing a service that helps people make informed decisions about gathering in groups during the holiday season"
+    },
+    {
+      "url": "https://reddit.com/r/Coronavirus/comments/1gu94my/long_covid_may_be_far_more_common_than_previously/",
+      "title": "Long COVID may be far more common than previously known, new Mass General Brigham study finds",
+      "score": 461,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "people who have had COVID-19 and are experiencing long-term symptoms",
+      "problem": "difficulty in diagnosing and treating long COVID, lack of recognition and understanding of the condition",
+      "current_solutions": "official counts and estimates from the US Centers for Disease Control and Prevention, but these may be inaccurate due to underreporting and lack of access to healthcare",
+      "opportunity": "development of a more accurate AI-powered diagnostic tool for long COVID, recognition and treatment of the condition by healthcare providers"
+    },
+    {
+      "url": "https://reddit.com/r/Coronavirus/comments/fgi2pi/even_if_covid19_is_unavoidable_delaying/",
+      "title": "Even if COVID-19 is unavoidable, delaying infections can flatten the peak number of illnesses to within hospital capacity and significantly reduce deaths.",
+      "score": 133745,
+      "confidence": 0.8,
+      "is_need": true,
+      "need_type": "service",
+      "target_market": "people who want to avoid spreading COVID-19",
+      "problem": "spreading COVID-19 and overwhelming hospital capacity",
+      "current_solutions": "teleworking, staying home when feeling unwell",
+      "opportunity": "delaying infections to reduce peak number of illnesses and deaths"
+    }
+  ],
+  "opportunities": []
+}
